@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **debadityasingh6@gmail.com**
 
-- ⚡ Fun fact **Itachi Never Reaches his full potential.**
+- ⚡ Fun fact **Itachi Never Reached his full potential.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
