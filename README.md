@@ -20,9 +20,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debadityasingh8972&show_icons=true&locale=en&layout=compact" alt="debadityasingh8972" /></p>
 
 
+<!--
 [![Debaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=debadityasingh8972)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **debadityasingh8972/debadityasingh8972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
