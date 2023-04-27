@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debadityasingh8972&label=Profile%20views&color=0e75b6&style=flat" alt="debadityasingh8972" /> </p>
 
-- 🔭 I’m currently working on **Some boring games**
+- 🔭 Currently working on **web3 development**
 
 - 💬 Ask me about **C++, JavaScript, Solidity, Blockchain**
 
