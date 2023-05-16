@@ -27,6 +27,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debadityasingh8972&show_icons=true&locale=en&layout=compact" alt="debadityasingh8972" /></p>
 
 
+###
+
+<img src="https://raw.githubusercontent.com/debadityasingh8972/debadityasingh8972/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/debaditya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="debaditya07" /></a></p><br><br>
