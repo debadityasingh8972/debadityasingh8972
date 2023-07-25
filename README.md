@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debadityasingh8972&label=Profile%20views&color=0e75b6&style=flat" alt="debadityasingh8972" /> </p>
 
-- 🔭 Currently working on **web3 development**
+- 🔭 Currently working on **GSAP and framer motion for animation**
 
 - 💬 Ask me about **C++, JavaScript, Solidity, Blockchain**
 
