@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://debaditya-showcase.vercel.app/](https://debaditya-showcase.vercel.app/)
 
-- 💬 Ask me about **C++, JavaScript, Solidity, Blockchain**
+- 💬 Ask me about **C++, JavaScript, NodeJS, Blockchain**
 
 - 📫 How to reach me **debadityasingh6@gmail.com**
 
