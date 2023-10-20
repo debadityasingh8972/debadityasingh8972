@@ -14,7 +14,7 @@
 -->
 - 🔭 I’m currently working on **GSAP and framer motion for animation**
 
-- 🌱 I’m currently learning **NextJS & PHP**
+- 🌱 I’m currently learning **NextJS , PHP**
 
 - 👨‍💻 All of my projects are available at [https://debaditya-showcase.vercel.app/](https://debaditya-showcase.vercel.app/)
 
