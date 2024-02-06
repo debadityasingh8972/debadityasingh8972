@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debadityasingh8972" alt="debadityasingh8972" /></a> </p>
 -->
-- 🔭 I’m currently working on **GSAP and framer motion for animation**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **NextJS , PHP**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://debaditya-showcase.vercel.app/](https://debaditya-showcase.vercel.app/)
 
